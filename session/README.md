@@ -1,4 +1,4 @@
-👨‍💻 ＶＡＪＩＲＡ - ＭＤ - Ｖ5 (CREDS.JSON UPLOAD FOLDER) 👨‍💻
+👨‍💻 DENETH-MD - Ｖ1 (CREDS.JSON UPLOAD FOLDER) 👨‍💻
 
 ᴍʏ ʟᴀꜱᴛ ᴜᴘᴅᴀᴛᴇ ᴏꜰ ᴠᴀᴊɪʀᴀ ᴍᴅ ᴍᴜʟᴛɪ-ᴅᴇᴠɪᴄᴇ ʙᴏᴛ.....
 
@@ -13,11 +13,11 @@
 📍 ᴀᴅᴅᴇᴅ ᴍᴀɴʏ ʙᴜɢꜱ ᴀɴᴅ ꜱᴘᴀᴍꜱ.
 
 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥𝗦 𝗔𝗡𝗗 𝗛𝗘𝗟𝗣𝗘𝗥𝗦....
-🔖 ʙᴏᴛ ᴄᴏᴅᴇʀ :- ᴠᴀᴊɪʀᴀ ʀᴀᴛʜɴᴀʏᴀᴋᴀ
+🔖 ʙᴏᴛ ᴄᴏᴅᴇʀ :- DENETH HANSAKA KEERTHIRATHNA
 
-🔖 ʟᴏɢᴏ ᴅᴇꜱɪɢɴᴇʀ :- ᴅᴀɴɪᴅᴜ ɴɪʀᴍᴀʟ
+🔖 ʟᴏɢᴏ ᴅᴇꜱɪɢɴᴇʀ :- DENETH HANSAKA KEERTHIRATHNA
 
-🔖 ʙᴜɢ ᴛᴇꜱᴛᴇʀ :- ꜱᴀᴅᴀʀᴜ
+🔖 ʙᴜɢ ᴛᴇꜱᴛᴇʀ :- DENETH HANSAKA KEERTHIRATHNA
 
-🔖 ᴠᴏɪᴄᴇ ʜᴇʟᴘᴇʀ :- ᴜꜱʜᴀɴɪ
+🔖 ᴠᴏɪᴄᴇ ʜᴇʟᴘᴇʀ :- DENETH HANSAKA KEERTHIRATHNA
 
